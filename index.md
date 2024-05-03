@@ -1,12 +1,13 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: Durham's Premier Towing & Auto Repair Service Provider
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Looking for Reliable Tow Truck Services or Expert Auto Repairs?
+    Contact William Towing Company at (919) 596-1600 for Professional Assistance Today!
+
   action: # action button is optional
-    label: Find Out More
+    label: CALL 919-596-1600
     url: '#about'
 
 
