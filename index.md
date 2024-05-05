@@ -89,7 +89,7 @@ sections:
     members:
       - title: Tony Williams
         text: Owner & Operator
-        image: assets/img/members/Person1.jpeg
+        image: assets/img/members/Person2.jpeg
         url: '#'
 
       
