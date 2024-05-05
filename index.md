@@ -49,7 +49,7 @@ sections:
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
-    #section_id: portfolio
+    section_id: photos
     #background_style: bg-dark
     projects:
       - title: Towing SUV
