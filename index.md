@@ -8,7 +8,7 @@ header:
 
   action: # action button is optional
     label: CALL 919-596-1600
-    url: '#about'
+    url: 'tel:9195961600'
 
 
 sections:
