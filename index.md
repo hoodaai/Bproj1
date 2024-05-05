@@ -7,7 +7,7 @@ header:
     Contact William Towing Company at (919) 596-1600 for Professional Assistance Today!
 
   action: # action button is optional
-    label: CALL 919-596-1600
+    label: CALL TODAY!
     url: 'tel:9195961600'
 
 
@@ -18,8 +18,8 @@ sections:
     title: At William's Towing Company, We've Got You Covered!
     text: William's Towing Company offers comprehensive solutions to address all your vehicular needs swiftly and effectively. From emergency towing to reliable roadside assistance, our services are tailored to provide you with prompt and efficient assistance whenever you need it. Experience convenience and reliability with William's Towing Company – your trusted partner on the road!
     actions:
-      - title: CALL 919-596-1600
-        url: '#page-top'
+      - title: CALL US NOW
+        url: 'tel:9195961600'
         class: btn-light
 
   - type: services.html
@@ -28,7 +28,7 @@ sections:
     title: At Your Service
     services:
       - title: Emergency Towing
-        text: Swift response for vehicles in distress, ensuring safe transport to a designated location.
+        text: Williams Towing Company offers reliable 24/7 emergency towing and roadside assistance services in Durham, NC. Contact us for prompt service!
         icon: bi-alarm text-info
         url: 
       - title: Roadside Assistance
