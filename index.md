@@ -87,14 +87,11 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: William
+      - title: Tony Williams
         text: Owner & Operator
         image: assets/img/members/Person1.jpeg
         url: '#'
-      - title: Tony
-        text: Operator
-        image: assets/img/members/Person2.jpeg
-        url: '#'
+
       
 
   - type: contact.html
