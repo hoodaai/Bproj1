@@ -104,10 +104,10 @@ sections:
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@williamstowingcompany.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
+      url: mailto:williamstowingcompany5@gmail.com
+    - title: Instagram
+      icon: bi-instagram
+      url: 'https://www.instagram.com/waf_towing/'
     - title: Facebook
       icon: bi-facebook
       url: '#'
