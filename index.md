@@ -4,7 +4,7 @@ header:
   title: Durham's Premier Towing & Auto Repair Service Provider
   text: >
     Looking for Reliable Tow Truck Services or Expert Auto Repairs?
-    Contact William Towing Company at (919) 596-1600 for Professional Assistance Today!
+    Contact Williams Towing Company at (919) 596-1600 for Professional Assistance Today!
 
   action: # action button is optional
     label: CALL TODAY!
@@ -15,8 +15,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: At William's Towing Company, We've Got You Covered!
-    text: William's Towing Company offers comprehensive solutions to address all your vehicular needs swiftly and effectively. From emergency towing to reliable roadside assistance, our services are tailored to provide you with prompt and efficient assistance whenever you need it. Experience convenience and reliability with William's Towing Company – your trusted partner on the road!
+    title: At Williams Towing Company, We've Got You Covered!
+    text: Williams Towing Company offers comprehensive solutions to address all your vehicular needs swiftly and effectively. From emergency towing to reliable roadside assistance, our services are tailored to provide you with prompt and efficient assistance whenever you need it. Experience convenience and reliability with Williams Towing Company – your trusted partner on the road!
     actions:
       - title: CALL US NOW
         url: 'tel:9195961600'
